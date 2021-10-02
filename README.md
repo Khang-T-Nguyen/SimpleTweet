@@ -8,7 +8,7 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] User can **compose and post a new tweet**
+- [v] User can **compose and post a new tweet**
   - [v] User can click a “Compose” icon in the Action Bar on the top right
   - [v] User can then enter a new tweet and post this to twitter
   - [v] User is taken back to home timeline with **new tweet visible** in timeline
@@ -34,6 +34,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+<img src=![SimpleTweetPart2](https://user-images.githubusercontent.com/80604127/135705223-403fae55-9670-416e-94ca-e027dd245f7d.gif)
+width=250><br>
 
 
 
